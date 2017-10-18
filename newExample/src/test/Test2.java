@@ -1,5 +1,5 @@
 package test;
 
-public class Test3 {
+public class Test2 {
 	private String nameString;
 }
